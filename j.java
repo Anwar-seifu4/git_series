@@ -8,6 +8,7 @@ public class j {
     {
         j j1 = new j();
         j1.add(2, 4);
-
+        j1.add(3,4);
+        j1.add(4,6);
     }
 }
