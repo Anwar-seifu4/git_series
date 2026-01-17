@@ -7,7 +7,10 @@ public class j {
     public static void main(String[] args)
     {
         j j1 = new j();
-        j1.add(2, 4);
+        j1.add(2, 3);
+        j1.add(2, 3);
+
+
 
     }
 }
